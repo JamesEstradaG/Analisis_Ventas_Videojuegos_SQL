@@ -24,3 +24,8 @@ Este es el bloque de lógica relacional que diseñé para unir las tablas de jue
 SELECT tabla_juegos.Nombre_Juego, tabla_juegos.Ventas_Millones, tabla_consolas.Nombre_Consola
 FROM tabla_juegos
 INNER JOIN tabla_consolas ON tabla_juegos.ID_Consola = tabla_consolas.ID_Consola
+```
+
+
+Proyecto diseñado para demostrar habilidades en uniones de bases de datos (JOINs), lógica relacional y Data Storytelling.
+
