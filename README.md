@@ -17,7 +17,7 @@ Gracias a la consulta SQL que construí, logramos consolidar la siguiente inform
 * **El Juego más Vendido:** Wii Sports con 82.9 millones de copias vendidas.
 * **Dominio de Mercado:** Al analizar las consolas, el gráfico muestra un claro dominio de la compañía Nintendo en el Top de ventas históricas de este reporte.
 
-## 🚀 Código SQL Destacado
+## Código SQL Destacado
 Este es el bloque de lógica relacional que diseñé para unir las tablas de juegos y consolas sin duplicar información:
 
 ```sql
